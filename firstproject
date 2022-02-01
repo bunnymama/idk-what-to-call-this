@@ -1,0 +1,2 @@
+git init git add . git commit -m "Create page." git config-global user.email "thezoocrewofficial123@gmail.com" git config-global user.name "Kaylee Gentry" git commit -m "Create page."
+git push -u orgin master
